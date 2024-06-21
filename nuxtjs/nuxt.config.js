@@ -1,4 +1,6 @@
 export default {
+  ssr: false,
+  target: 'server',
   head: {
     title: 'playground',
     htmlAttrs: {
